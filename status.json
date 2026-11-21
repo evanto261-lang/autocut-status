@@ -1,7 +1,7 @@
 {
   "beta_active": true,
   "expires_on": "2026-12-10",
-  "max_visuals": 100,
+  "max_visuals": 600,
   "message": "AutoCut Pro Beta testing has ended. Please upgrade to the Pro version to continue.",
   "upgrade_url": "https://your-website-or-whatsapp-link.com"
 }
